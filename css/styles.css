@@ -1,0 +1,50 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+#banner {
+    width: 100%;
+
+}
+
+.principal {
+    background: #cccccc; 
+    padding: 20px; 
+}
+.titulo-centralizado{
+    text-align: center;
+    /*border: 10px solid #000000;*/
+}
+p{
+    text-align: center;
+    }
+em strong{
+    color: red;
+}
+
+#mision { /*los ID se colocan con #*/
+    font-size: 20px;
+}
+
+
+.diferenciales{ /*las clases con punto (.)*/
+    background: #ffffff;
+    padding: 30px;
+
+}
+
+.items {
+    font-style: italic;
+}
+/*
+ul {
+    display: inline-block; ocupa solo el espacio del contenido
+    vertical-align: top; alinear parte superior 
+    width: 20%;
+    margin-right: 15%;
+}
+*/
+
+.imagenDiferenciales {
+    width: 50%;
+}
+
