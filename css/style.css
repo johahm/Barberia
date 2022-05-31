@@ -82,7 +82,7 @@ nav a:hover{ /*captura movimiento del mouse en los links y los cambia de color*/
 
 footer {
     text-align: center;
-    background-image: url(img/bg.jpg);
+    background-image: url(https://johahm.github.io/Barberia/img/bg.jpg);
     padding: 40px;
 }
 .copyright {
